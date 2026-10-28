@@ -18,3 +18,6 @@ Template motion has been restored: desktop smooth scrolling, staggered service p
 The header and favicon use the TS artwork isolated from the supplied logo. The hero uses three clickable dashboard cards. About follows the TekScaleUp composition with a TS panel and four figures; the existing banner is a dashboard collage. No new homepage sections were added.
 
 The existing montage now contains a code-native growth-system graphic: central TS hub, four service nodes, animated connectors and a non-numeric upward curve. Desktop scroll zoom is retained; mobile uses a readable two-column layout.
+
+## Responsive revision — October 28, 2026
+Mobile and tablet now have native dashboard swiping, height-aware service and experience stacks, an adaptive growth graphic, compact result panels and a progressing process timeline. See RESPONSIVE-REVIEW.md for verification and remaining limits.
